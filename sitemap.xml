@@ -1,402 +1,249 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://velokoller.github.io/posts/pakistan/</loc>
-    <lastmod>2018-08-22T16:45:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/pakistanische-gastfreundschaft/</loc>
-    <lastmod>2018-08-22T16:45:14+02:00</lastmod>
-  </url>
-  
-  <url>
+    <loc>https://velokoller.github.io/auswanderung/einfuehrung/familie-eggel/</loc>
+    <lastmod>2021-04-16T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://velokoller.github.io/auswanderung/einfuehrung/</loc>
+    <lastmod>2021-04-16T00:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://velokoller.github.io/</loc>
-    <lastmod>2018-08-22T16:45:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/</loc>
+    <lastmod>2021-04-16T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://velokoller.github.io/auswanderung/</loc>
+    <lastmod>2021-04-16T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/</loc>
     <lastmod>2018-08-17T08:40:23+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/heimreise/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/</loc>
+    <lastmod>2018-08-17T08:40:23+02:00</lastmod>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/heimreise/</loc>
     <lastmod>2012-02-17T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/ist-san-jose-einen-besuch-wert/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/ist-san-jose-einen-besuch-wert/</loc>
     <lastmod>2012-02-15T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/erdstosse-und-stossverkehr/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/erdstosse-und-stossverkehr/</loc>
     <lastmod>2012-02-14T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/schwimmen-lesen-dosen/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/schwimmen-lesen-dosen/</loc>
     <lastmod>2012-02-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/zuruck-auf-meereshohe/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/zuruck-auf-meereshohe/</loc>
     <lastmod>2012-02-11T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/chirripo/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/chirripo/</loc>
     <lastmod>2012-02-10T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/ein-neues-abenteuer/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/ein-neues-abenteuer/</loc>
     <lastmod>2012-02-08T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/einlaufen-fur-den-chirripo/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/einlaufen-fur-den-chirripo/</loc>
     <lastmod>2012-02-08T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/die-erste-schlaufe-ist-geschlossen/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/die-erste-schlaufe-ist-geschlossen/</loc>
     <lastmod>2012-02-06T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/sonntagsausflug-den-chlibistrand/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/sonntagsausflug-den-chlibistrand/</loc>
     <lastmod>2012-02-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/wurgefeige-und-jaguar/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/wurgefeige-und-jaguar/</loc>
     <lastmod>2012-02-04T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/was-ein-vogel-auslosen-kann/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/was-ein-vogel-auslosen-kann/</loc>
     <lastmod>2012-02-03T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/der-sprung-nach-suden/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/der-sprung-nach-suden/</loc>
     <lastmod>2012-02-02T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/zuruck-in-den-hugeln-von-costa-rica/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/zuruck-in-den-hugeln-von-costa-rica/</loc>
     <lastmod>2012-02-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/ruhetag/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/ruhetag/</loc>
     <lastmod>2012-01-31T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/eigentlich-eine-harmlose-transfer/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/eigentlich-eine-harmlose-transfer/</loc>
     <lastmod>2012-01-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/auf-nach-ometepe/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/auf-nach-ometepe/</loc>
     <lastmod>2012-01-29T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/ohne-hollander-hilfe/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/ohne-hollander-hilfe/</loc>
     <lastmod>2012-01-29T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/nachtrag-zum-mittwoch-25-januar/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/nachtrag-zum-mittwoch-25-januar/</loc>
     <lastmod>2012-01-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/zuruck-auf-der-panamericana-flach-und/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/zuruck-auf-der-panamericana-flach-und/</loc>
     <lastmod>2012-01-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/der-rauchende-schlund/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/der-rauchende-schlund/</loc>
     <lastmod>2012-01-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/granada/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/granada/</loc>
     <lastmod>2012-01-25T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/die-passage-zwischen-den-ozeanen/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/die-passage-zwischen-den-ozeanen/</loc>
     <lastmod>2012-01-23T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/da-war-einmal-eine-revolution/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/da-war-einmal-eine-revolution/</loc>
     <lastmod>2012-01-22T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/von-los-chiles-nach-san-carlos-in/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/von-los-chiles-nach-san-carlos-in/</loc>
     <lastmod>2012-01-22T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/los-chiles-zuerst-die-arbeit-dann-das/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/los-chiles-zuerst-die-arbeit-dann-das/</loc>
     <lastmod>2012-01-21T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/muelle-los-chiles-warmduschen-statt-hot/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/muelle-los-chiles-warmduschen-statt-hot/</loc>
     <lastmod>2012-01-19T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/eintauchen-in-die-agrarzone/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/eintauchen-in-die-agrarzone/</loc>
     <lastmod>2012-01-18T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/der-donnernder-wasserfall/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/der-donnernder-wasserfall/</loc>
     <lastmod>2012-01-17T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/nachtrag-zum-sonntag/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/nachtrag-zum-sonntag/</loc>
     <lastmod>2012-01-17T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/la-fortuna-durchatmen-kraftdepots/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/la-fortuna-durchatmen-kraftdepots/</loc>
     <lastmod>2012-01-16T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/kurzeintrag-san-ramon-la-fortuna/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/kurzeintrag-san-ramon-la-fortuna/</loc>
     <lastmod>2012-01-15T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/alajuela-san-ramon-up-and-down/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/alajuela-san-ramon-up-and-down/</loc>
     <lastmod>2012-01-14T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/vierzehn-stunden-flug-in-die-tropische/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/vierzehn-stunden-flug-in-die-tropische/</loc>
     <lastmod>2012-01-13T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/cr-nic/wieder-unterwegs-januar-2012/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/cr-nic/wieder-unterwegs-januar-2012/</loc>
     <lastmod>2012-01-11T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/</loc>
     <lastmod>2003-10-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/tehran-letzter-tag/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/tehran-letzter-tag/</loc>
     <lastmod>2003-10-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/tehran/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/tehran/</loc>
     <lastmod>2003-10-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/abreise-nach-tehran/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/abreise-nach-tehran/</loc>
     <lastmod>2003-09-30T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/shiraz-letzter-tag/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/shiraz-letzter-tag/</loc>
     <lastmod>2003-09-29T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/shiraz-sonntag/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/shiraz-sonntag/</loc>
     <lastmod>2003-09-28T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/shiraz/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/shiraz/</loc>
     <lastmod>2003-09-27T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/persepolis/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/persepolis/</loc>
     <lastmod>2003-09-26T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/busreise-nach-shiraz/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/busreise-nach-shiraz/</loc>
     <lastmod>2003-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/yazd/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/yazd/</loc>
     <lastmod>2003-09-23T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/der-paradiesgarten-in-mahan/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/der-paradiesgarten-in-mahan/</loc>
     <lastmod>2003-09-22T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/teppichknupfkunst-in-kerman/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/teppichknupfkunst-in-kerman/</loc>
     <lastmod>2003-09-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/flug-nach-kerman-arg-e-bam/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/flug-nach-kerman-arg-e-bam/</loc>
     <lastmod>2003-09-19T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/letzte-besichtigungen-in-esfahan/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/letzte-besichtigungen-in-esfahan/</loc>
     <lastmod>2003-09-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/reiseplanung-und-esfahan-by-night/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/reiseplanung-und-esfahan-by-night/</loc>
     <lastmod>2003-09-17T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/palaste-und-gartenanlagen-in-esfahan/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/palaste-und-gartenanlagen-in-esfahan/</loc>
     <lastmod>2003-09-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/ankunft-in-esfahan/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/ankunft-in-esfahan/</loc>
     <lastmod>2003-09-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/hamadan-emam-khomeyni-hospital/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/hamadan-emam-khomeyni-hospital/</loc>
     <lastmod>2003-09-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/hamadan/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/hamadan/</loc>
     <lastmod>2003-09-06T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/talesh-rasht/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/talesh-rasht/</loc>
     <lastmod>2003-09-04T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/talesh/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/talesh/</loc>
     <lastmod>2003-09-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/ardabil-talesh/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/ardabil-talesh/</loc>
     <lastmod>2003-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/tabriz/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/tabriz/</loc>
     <lastmod>2003-08-29T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/van-marqan/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/van-marqan/</loc>
     <lastmod>2003-08-24T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/iran/reiseauftakt/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/iran/reiseauftakt/</loc>
     <lastmod>2003-08-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/sost-gilgit/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/</loc>
     <lastmod>1999-06-02T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/rueckreise/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/sost-gilgit/</loc>
+    <lastmod>1999-06-02T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/rueckreise/</loc>
     <lastmod>1999-05-31T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/kashgar/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/kashgar/</loc>
     <lastmod>1999-05-27T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/siebente-etappe/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/siebente-etappe/</loc>
     <lastmod>1999-05-26T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/pamir-hochebene/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/pamir-hochebene/</loc>
     <lastmod>1999-05-24T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/khunjerab-pass/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/khunjerab-pass/</loc>
     <lastmod>1999-05-23T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/dritte-etappe/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/dritte-etappe/</loc>
     <lastmod>1999-05-22T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/zweite-etappe/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/zweite-etappe/</loc>
     <lastmod>1999-05-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/pakistanische-gastfreundschaft/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/pakistanische-gastfreundschaft/</loc>
     <lastmod>1999-05-20T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/erste-etappe/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/erste-etappe/</loc>
     <lastmod>1999-05-19T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/die-route/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/die-route/</loc>
     <lastmod>1999-05-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/rawalpindi/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/rawalpindi/</loc>
     <lastmod>1999-05-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/pakistan/vorbereitungen/</loc>
+  </url><url>
+    <loc>https://velokoller.github.io/reisen/pakistan/vorbereitungen/</loc>
     <lastmod>1999-04-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://velokoller.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://velokoller.github.io/posts/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://velokoller.github.io/tags/</loc>
   </url>
-  
 </urlset>

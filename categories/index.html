@@ -8,198 +8,345 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://velokoller.github.io/css/tachyons.min.css">
     <link rel="stylesheet" href="https://velokoller.github.io/css/style.css">
+    <script src="https://velokoller.github.io/js/scripts.js" defer></script>
+    <script src="https://velokoller.github.io/js/fuse.js" defer></script>
+    <script src="https://velokoller.github.io/js/fastsearch.js" defer></script>
 </head>
-<body class="helvetica bg-near-white"><header class="pa3 pb5 f4 lh-copy">
-    <nav>
-        <div class="fl w-10">
-        <a href="https://velokoller.github.io/">
-                <img src="https://velokoller.github.io/images/logo.png" class="logo dib" alt="logo">
-            </a>
-        
-        </div>
-        <ul class="list fl w-90 pa2 mv1 fw5 tr">
-        
-        
-        </ul>
-    </nav>
-</header>
-<div id="content">
-<main class="pa3 pt2 center measure-wide lh-copy">
-    <h2 class="f2 mt0 mb3 lh-title">Categories</h2>
-    <div class="serif f6 pb2 lh-copy">
+<body class="db helvetica bg-near-white"><header class="navbar v-mid db pa2 f4 lh-copy bg-near-white bb-ns b--moon-gray">
+
     
+    <div id="sidebarButton" class="dib dn-l pointer">
+        <img src="https://velokoller.github.io/images/list.svg" class="dib h2 pa2" alt="sidebar-button"/>
     </div>
     
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-    <ul class="list pl0">
+
+    
+    <div class="dib">
+        <a href="https://velokoller.github.io/">
+            <img src="https://velokoller.github.io/images/logo.png" class="logo" alt="logo">
+        </a>
+    </div>
+    
+
+    <div id="fastSearch" class="pv2">
+        <input id="searchInput" class="ba b--moon-gray" placeholder="Suche" tabindex="0">
+        <ul id="searchResults" class="pl0 f6 bg-near-white ba b--moon-gray "></ul>
+    </div>
+</header>
+<div class="sidebar-mask"></div>
+        <aside class="sidebar">
+
+<div id="sidebar" class="sidebar bg-near-white br-ns b--moon-gray dn db-l">
+
+  
+  
+  <ul class="list pt2 pl0">
+    
+    <li>
+      <section class="pb3 b">
+        <a class="pl3 b db no-underline" href="https://velokoller.github.io/auswanderung/">Walliser Auswanderung</a>
+
+
         
-        <li class="lh-copy f3 f4-ns">
-            <a href="https://velokoller.github.io/posts/pakistan/">Pakistan</a>
-        </li>
         
-        <li class="lh-copy f3 f4-ns">
-            <a href="https://velokoller.github.io/posts/cr-nic/">Costa Rica und Nicaragua</a>
-        </li>
+        <ul class="list pt2 pl0">
+          
+            <li>
+              <section class="pb2">
+
+                
+
+                <a class="sidebar-subsection-link pl4 b no-underline " 
+                   href="https://velokoller.github.io/auswanderung/einfuehrung/">Einführung</a>
+                  
+                  
+                  
+
+
+              </section>
+            </li>
+          
+        </ul>
         
-        <li class="lh-copy f3 f4-ns">
-            <a href="https://velokoller.github.io/posts/iran/">Iran</a>
-        </li>
-        
-    </ul>
+
+
+      </section>
+    </li>
     
+    <li>
+      <section class="pb3 b">
+        <a class="pl3 b db no-underline" href="https://velokoller.github.io/reisen/">Reisen</a>
+
+
+        
+        
+        <ul class="list pt2 pl0">
+          
+            <li>
+              <section class="pb2">
+
+                
+
+                <a class="sidebar-subsection-link pl4 b no-underline " 
+                   href="https://velokoller.github.io/reisen/cr-nic/">Costa Rica  Nicaragua</a>
+                  
+                  
+                  
+
+
+              </section>
+            </li>
+          
+            <li>
+              <section class="pb2">
+
+                
+
+                <a class="sidebar-subsection-link pl4 b no-underline " 
+                   href="https://velokoller.github.io/reisen/iran/">Iran</a>
+                  
+                  
+                  
+
+
+              </section>
+            </li>
+          
+            <li>
+              <section class="pb2">
+
+                
+
+                <a class="sidebar-subsection-link pl4 b no-underline " 
+                   href="https://velokoller.github.io/reisen/pakistan/">Pakistan</a>
+                  
+                  
+                  
+
+
+              </section>
+            </li>
+          
+        </ul>
+        
+
+
+      </section>
+    </li>
+    
+  </ul>
   
+
+</div>
+
+
+</aside>
+
+        <div id="content" class="content pt4">
+<main class="pa3 pt2 center measure-wide lh-copy">
+    
+
+
+    
+
+        <h2 class="f2 f3-ns"><a href="https://velokoller.github.io/auswanderung/">Walliser Auswanderung</a></h2>
+
+        
+            
+        
+            
+        
+            
+                <ul class="list pl0">
+                    
+                    <li class="lh-copy f3 f4-ns">
+                        <a href="https://velokoller.github.io/auswanderung/einfuehrung/">Einführung</a>
+                    </li>
+                    
+                </ul>
+            
+        
+
+
+    
+
+        <h2 class="f2 f3-ns"><a href="https://velokoller.github.io/reisen/">Reisen</a></h2>
+
+        
+            
+        
+            
+                <ul class="list pl0">
+                    
+                    <li class="lh-copy f3 f4-ns">
+                        <a href="https://velokoller.github.io/reisen/cr-nic/">Costa Rica  Nicaragua</a>
+                    </li>
+                    
+                    <li class="lh-copy f3 f4-ns">
+                        <a href="https://velokoller.github.io/reisen/iran/">Iran</a>
+                    </li>
+                    
+                    <li class="lh-copy f3 f4-ns">
+                        <a href="https://velokoller.github.io/reisen/pakistan/">Pakistan</a>
+                    </li>
+                    
+                </ul>
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+
+
+    
+
+    
+
 </main>
 
         </div><footer class="pt4 pb5 tc center">
